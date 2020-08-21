@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. icecream
+2. mountains
+  2a. trees
